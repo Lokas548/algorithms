@@ -1,0 +1,3 @@
+﻿  mergeSort.cpp
+C:\Users\Acer\Desktop\алгоритмы\mergeSort\mergeSort\mergeSort.cpp(42,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  mergeSort.vcxproj -> C:\Users\Acer\Desktop\алгоритмы\mergeSort\Debug\mergeSort.exe

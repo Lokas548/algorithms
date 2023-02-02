@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\Acer\Desktop\алгоритмы\07.12.22\shellSort\shellSort\Main.cpp(17,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  shellSort.vcxproj -> C:\Users\Acer\Desktop\алгоритмы\07.12.22\shellSort\Debug\shellSort.exe
